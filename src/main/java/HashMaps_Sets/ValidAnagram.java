@@ -14,6 +14,10 @@ public class ValidAnagram {
 
     }
 
+    // a-> 2; b-> 2; c-> 2
+    // a-> 1; b-> 1; c-> 1; a -> 0; b -> 0; c -> 0
+    // return true (todos os valores são 0)
+
     public static boolean isAnagram(String s, String t){
 
         char[] sArray = s.toCharArray();
