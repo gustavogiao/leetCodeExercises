@@ -45,7 +45,7 @@ public class BaseballGame {
 
     // métodos principais de stacks
     // push(E item)	Adiciona um item ao topo da pilha
-    // pop()	Remove e retorna o item no topo da pilha
+    // pop()	Remove e retorna último elemento adicionado à pilha da pilha
     // peek()	Retorna o item do topo sem remover
     // empty()	Verifica se a pilha está vazia
     // search(Object o)	Procura o objeto na pilha e retorna a posição (1-based) a partir do topo
